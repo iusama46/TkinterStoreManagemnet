@@ -1,0 +1,24 @@
+	         Al Fateh 
+	     Thanks For Shopping
+
+ Bill Number: 1859
+
+ Customer Name: Usama 
+
+ Phone Number: 0928172772
+=======================================
+ Products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Rice		1		125
+ Wheat		100		7500
+ Sugar		20		2000
+ Tea		5		800
+ Coca Cola		20		2000
+ Fanta		2		200
+---------------------------------------
+Cosmetics Tax 			    Rs. 6.8 
+Grocery Tax 			    Rs. 1772.25 
+Cold Drinks Tax 			    Rs. 374.0 
+Total 			    Rs. 14818.05
+---------------------------------------
